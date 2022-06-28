@@ -2,3 +2,4 @@
 BINGO
 SIGNAL
 MINAMAX
+(34*8)^2 utes
